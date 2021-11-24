@@ -14,7 +14,7 @@
   </properties>
 
   <name>jitsi-xmpp-extensions</name>
-  <url>https://github.com/jitsi/jitsi-xmpp-extensions</url>
+  <url>https://github.com/parvardegr/jitsi-xmpp-extensions</url>
 
   <dependencies>
     <dependency>
